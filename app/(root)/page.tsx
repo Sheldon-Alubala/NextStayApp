@@ -10,7 +10,7 @@ export default function Home() {
         <div className="wrapper grid grid-cols-1 gap-5 md:grid-cols-2 2xl:gap-0">
           <div className="flex flex-col justify-center gap-8">
             <h1 className="h1-bold">Host, Rent, Lease, sell: 
-            Your Place, Our Platform!</h1>
+            Your Space, Our Platform!</h1>
             <p className="p-regular-20 md:p-regular-24">Welcome to your gateway to unforgettable stays and dream homes.
             Explore, book and discover your perfect escape or forever sanctuary with our curated collection
              of places to stay, homes and lands for sale.</p>
